@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51" started-at="2018-11-08T17:14:35Z" finished-at="2018-11-08T17:14:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51" started-at="2018-11-08T17:14:35Z" finished-at="2018-11-08T17:14:35Z">
+      <class name="com.test.Demo7">
+        <test-method status="PASS" signature="parameter_Test(java.lang.String)[pri:0, instance:com.test.Demo7@2ef5e5e3]" name="parameter_Test" duration-ms="16" started-at="2018-11-08T17:14:35Z" finished-at="2018-11-08T17:14:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello Trailblazers!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parameter_Test -->
+      </class> <!-- com.test.Demo7 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
